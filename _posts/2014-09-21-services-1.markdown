@@ -1,6 +1,6 @@
 ---
 layout: default
-img: dalton.jpg
+img: juan2.png
 category: Services
 title: Juan Carlos Gaudiano <br> Founder
 description: |
