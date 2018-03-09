@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: mark.jpg
 category: Services
-title: Death to the Stock Photo:<br>Special Thanks
+title: Mark Senne<br> Operations Director
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+  Mark Senne is currently in 11th grade at William Mason High School and is the current operations director for the Mason Hack Club. He is in charge of running and planning events and emailing our club members to keep them up to date and engaged with the club.
