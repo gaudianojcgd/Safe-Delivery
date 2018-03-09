@@ -1,10 +1,9 @@
 ---
 layout: default
-img: dog.png
+img: dalton.jpg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Dalton Craven <br> Finance Director & Webmaster
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+Dalton Craven is currently in 11th grade at William Mason High School. If you have every wondered how all of our websites look so clear and
+professional just ask Dalton. With him building and maintaining many websites for the Mason Hack Club and other clubs in our school he works around the clock to make sure everyone as what they need. He is also in charge of dealing with the money for Mason Hack Club who has the second highest revenue for a club at William Mason High School.
