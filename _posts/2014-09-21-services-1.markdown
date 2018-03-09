@@ -1,8 +1,8 @@
 ---
 layout: default
-img: mark.jpg
+img: juan carlos.JPG
 category: Services
-title: Mark Senne<br> Operations Director
+title: Juan Carlos Gaudiano <br> Founder
 description: |
 ---
-  Mark Senne is currently in 11th grade at William Mason High School and is the current operations director for the Mason Hack Club. He is in charge of running and planning events and emailing our club members to keep them up to date and engaged with the club.
+  Juan Carlo Gaudiano is currently in 11th grade at William Mason High School and is the founder of Safedeliv. He is always eager to make new and exciting business connections. Juan is driven to make his new founded idea into reality and a successful business. He is always open to new ideas and taking criticism. With Juan leading the charge we are always focus and now schedule.
