@@ -1,6 +1,6 @@
 ---
 layout: default
-img: juan carlos.JPG
+img: juan.JPG
 category: Services
 title: Juan Carlos Gaudiano <br> Founder
 description: |
