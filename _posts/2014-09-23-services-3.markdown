@@ -1,8 +1,0 @@
----
-layout: default
-img: megan.jpg
-category: Services
-title: Megan Cui <br> Executive Director
-description: |
----
-Megan Cui is currently in 11th at William Mason High School. Megan is always looking for ways to help expand Hack Club and to get more people interested in Hack Club and computer science. She is always reaching out to new companies looking for new partners so that we can help each other. And with Megan leading the charge we are always on task and on schedule.
