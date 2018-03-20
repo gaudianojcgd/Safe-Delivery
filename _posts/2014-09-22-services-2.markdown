@@ -1,9 +1,8 @@
 ---
 layout: default
-img: dalton.jpg
+img: pranav.png
 category: Services
-title: Dalton Craven <br> Finance Director & Webmaster
+title: Pranav Yenugu <br> co-founder
 description: |
 ---
-Dalton Craven is currently in 11th grade at William Mason High School. If you have every wondered how all of our websites look so clear and
-professional just ask Dalton. With him building and maintaining many websites for the Mason Hack Club and other clubs in our school he works around the clock to make sure everyone as what they need. He is also in charge of dealing with the money for Mason Hack Club who has the second highest revenue for a club at William Mason High School.
+With being a driven 11th grader at William Mason High School Pranav Yenugu is the co-founder of Safedeliv. Pranav has the vision and ingenuity to over come the challenges associated with being a high school student. Pranav is always looking to his trusted mentors and other successful people for advice and to learn from not only him mistakes but their's as well. He will build off of past mistakes and look to the future and face every problem head on.
